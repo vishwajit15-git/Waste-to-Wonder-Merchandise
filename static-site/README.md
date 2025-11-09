@@ -1,6 +1,4 @@
-# static-site
 
-This folder contains a lightweight, static copy of the HVEP landing page originally built in Next.js. It is provided as a self-contained HTML/CSS/JS preview you can open locally for design, content, and QA work.
 
 ## Contents
 
@@ -10,17 +8,7 @@ This folder contains a lightweight, static copy of the HVEP landing page origina
 - `product-images/` — local product images used by `scripts.js`
 - `images/` — assorted decorative images and icons
 
-## Quick preview
 
-1. Serve the folder (recommended) so relative image paths and JS load correctly:
-
-```sh
-# from the repository root
-python3 -m http.server --directory static-site 8000
-# open http://localhost:8000 in your browser
-```
-
-2. Or open `static-site/index.html` directly in the browser (some browsers block local fetches for scripts/images).
 
 ## How the product images are wired
 
