@@ -1,2 +1,3 @@
-# Waste-to-Wonder-Merchandise suryansh
+# Waste-to-Wonder-Merchandise 
 
+# All pages have been merged
